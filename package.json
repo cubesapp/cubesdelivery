@@ -3,15 +3,15 @@
 	"description":"Bidirectional File Transfers For Node.js via Socket.IO",
 	"author":
 		{
-			"name":"Liam Kaufman",
-			"email":"liam.kaufman@gmail.com",
-			"web":"http://liamkaufman.com"
+			"name":"Homer Zuo",
+			"email":"team@inboxcube.com",
+			"web":"http://inboxcube.com"
 		},
 	"version":"0.0.3",
 	"keywords":["file","transfer","push","socket.io","websockets"],
 	"repository":{
 		"type":"git",
-		"url":"https://liamks@github.com/liamks/Delivery.js.git"	
+		"url":"https://github.com/cubesapp/cubesdelivery.git"	
 	},
 	"engines":{
 		"node":">=0.6.0"
